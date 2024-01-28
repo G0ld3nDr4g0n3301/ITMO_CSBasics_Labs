@@ -6,12 +6,9 @@ In order to run my program, you should copy the contents of "???.asm" file, to y
 
 *P.S. Note, that your BComp must be in 'Run' mode,to run the program. To switch the mode, just use GUI button, or,alternatively,you can use F9 hotkey instead.*
 
-## Unsigned Integer Divider
-My first tool for BComp will be the "Unsigned Integer Divider"*(Or just "****UID****")*. I think,the name tells you everything,you should know about this program.Pretty self-explainatory name. 
-
-# Under Construction
-**Below you can find some of my plans on future projects.**
+## Why your program is **so** *sloooow*?
+You can switch tics per second with F12 key. Pick a tempo that suits you more.
 
 ## Free Memory Visualizer
-The second tool, that i'll upload is "Free Memory Visualizer".It's a tool, that uses external device number 6("running line") for visualising amount of not-null RAM cells. So after you run this program, you can see the result in ED-6 window.
-*P.S. This program uses the "UID" algorithm to divide the amount of non-zero cells.*
+The first tool, that i'll upload is "Free Memory Visualizer".It's a tool, that uses external device number 6("running line") for visualising amount of not-null RAM cells. So after you run this program, you can see the result in ED-6 window.
+
